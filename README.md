@@ -6,3 +6,7 @@
 
 ## main ブランチでDevContainerB
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Hideyasu-Ozawa/multi-dev-container?devcontainer_path=.devcontainer%2FDevContainerB%2Fdevcontainer.json)
+
+
+## main ブランチでDevContainerBにQuick Start
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Hideyasu-Ozawa/multi-dev-container?quickstart=1&devcontainer_path=.devcontainer%2FDevContainerB%2Fdevcontainer.json)
